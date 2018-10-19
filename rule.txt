@@ -8,3 +8,6 @@
 ||google.com
 ||base64decode.org
 ||longtimevip.cc
+||facebook.com
+||googleapis.com
+||googleusercontent.com
