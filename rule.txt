@@ -1,0 +1,4 @@
+||baidu.com
+||amazonaws.com
+||sourcetreeapp.com
+||atlassian.com
