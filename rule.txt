@@ -1,4 +1,5 @@
-||baidu.com
 ||amazonaws.com
+||github.com
 ||sourcetreeapp.com
 ||atlassian.com
+||stackoverflow.com
