@@ -1,3 +1,4 @@
+! Base64: https://www.base64decode.org/
 ||amazonaws.com
 ||github.com
 ||sourcetreeapp.com
