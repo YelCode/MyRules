@@ -4,3 +4,6 @@
 ||sourcetreeapp.com
 ||atlassian.com
 ||stackoverflow.com
+||admob.com
+||google.com
+||base64decode.org
