@@ -15,3 +15,5 @@
 ||google.ru
 ||googlesyndication.com
 ||base64encode.org
+||google-analytics.com
+||ggpht.com
