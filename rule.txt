@@ -11,3 +11,7 @@
 ||facebook.com
 ||googleapis.com
 ||googleusercontent.com
+||googletagmanager.com
+||google.ru
+||googlesyndication.com
+||base64encode.org
