@@ -17,3 +17,4 @@
 ||base64encode.org
 ||google-analytics.com
 ||ggpht.com
+||gstatic.com
