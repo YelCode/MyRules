@@ -18,3 +18,4 @@
 ||google-analytics.com
 ||ggpht.com
 ||gstatic.com
+||longtimevip.info
