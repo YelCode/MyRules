@@ -19,3 +19,4 @@
 ||ggpht.com
 ||gstatic.com
 ||longtimevip.info
+||github.io
