@@ -20,3 +20,4 @@
 ||gstatic.com
 ||longtimevip.info
 ||github.io
+||fbcdn.net
